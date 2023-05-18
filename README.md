@@ -9,7 +9,7 @@ O projeto foi desenvolvido durante as aulas do módulo 02 do curso Explorer da R
 O objetivo foi recriar um layout de webpage simples acrescentando todos os conceitos de html e css aprendidos durante o módulo02.
 
 <p align="center">
-  <img alt="imagem do projeto Rocket.sect" src=".github/preview.jpg" width="100%">
+  <img alt="imagem do projeto treine.me" src=".github/preview.jpg" width="100%">
 </p>
 
 <br>
